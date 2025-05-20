@@ -356,7 +356,7 @@ contract TaskManager is ITaskManager, MockCoFHE {
     }
 
     function isUnaryOperation(FunctionId funcId) internal pure returns (bool) {
-        return funcId == FunctionId.not || funcId == FunctionId.square;
+        return funcId == FunctionId.not || funcId == FunctionId.square || funcId == FunctionId.cast;
     }
 
     function isPlaintextOperation(
