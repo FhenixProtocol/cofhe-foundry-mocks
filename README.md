@@ -1,4 +1,11 @@
-# cofhe-foundry-mocks [![NPM Package][npm-badge]][npm] [![License: MIT][license-badge]][license]
+# cofhe-foundry-mocks (DEPRECATED) [![NPM Package][npm-badge]][npm] [![License: MIT][license-badge]][license]
+
+> [!CAUTION]
+> DEPRECATED
+> 
+> Use [cofhe-mock-contracts](https://github.com/FhenixProtocol/cofhe-mock-contracts) instead.
+
+---------
 
 [npm]: https://www.npmjs.com/package/@fhenixprotocol/cofhe-foundry-mocks
 [npm-badge]: https://img.shields.io/npm/v/@fhenixprotocol/cofhe-foundry-mocks.svg
